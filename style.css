@@ -378,6 +378,14 @@ nav {
   -webkit-user-select: none;
 }
 
+.feature-icon img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  display: block;
+}
+
+
 .feature-title {
   font-family: var(--font-display);
   font-weight: 700;
